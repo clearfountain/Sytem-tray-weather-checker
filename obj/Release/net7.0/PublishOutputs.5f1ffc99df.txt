@@ -1,0 +1,13 @@
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\Settings.job
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\WeatherCheckerGTK.exe
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\WeatherCheckerGTK.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\WeatherCheckerGTK.deps.json
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\WeatherCheckerGTK.runtimeconfig.json
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\WeatherCheckerGTK.pdb
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\AtkSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\CairoSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\GdkSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\GioSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\GLibSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\GtkSharp.dll
+C:\Users\jedet\Desktop\Zuri\GTK\WeatherCheckerGTK\obj\Release\net7.0\PubTmp\Out\app_data\Jobs\Triggered\WeatherCheckerGTK\PangoSharp.dll

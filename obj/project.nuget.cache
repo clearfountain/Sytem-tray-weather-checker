@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzdbMe/BamqVz+06Q0xBv5/x27Jng9zKrUzuRcDUW7mUHjIc8V85xwDRPdvHruRJaAn8xH7s3jZv/Tt8R6CbMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jedet\\Desktop\\Zuri\\GTK\\WeatherCheckerGTK\\WeatherCheckerGTK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jedet\\.nuget\\packages\\atksharp\\3.24.24.95\\atksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\cairosharp\\3.24.24.95\\cairosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\gdksharp\\3.24.24.95\\gdksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\giosharp\\3.24.24.95\\giosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\glibsharp\\3.24.24.95\\glibsharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\gtksharp\\3.24.24.95\\gtksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\jedet\\.nuget\\packages\\pangosharp\\3.24.24.95\\pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
