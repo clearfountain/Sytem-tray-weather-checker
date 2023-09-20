@@ -3,7 +3,7 @@ using Gtk;
 
 class Program
 {
-    private const string API_KEY = "039dfe7eb9ae61ecad4977d34955aead";
+    private const string API_KEY = "";
     private const string LOCATION = "Lagos, NG";
     private const string ICON_PATH = "..\\..\\..\\Images\\weather.png";
 
