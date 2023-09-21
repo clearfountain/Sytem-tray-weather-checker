@@ -7,5 +7,5 @@ A simple system tray application that shows if it will rain today.
 <h2>Steps to run</h2>
 <p> Assign your OpenWeather API key as API_KEY value in Program.cs. </p>
 <p> Assign preferred location to LOCATION in Program.cs. </p>
-<p> Build and Run the project. </p>
+<p> Build and Run the project. A console with white text box will appear </p>
 <p> App's icon will appear in system tray, double-click it. </p>
